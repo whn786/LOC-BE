@@ -61,7 +61,7 @@ To generate VOC style segmentation labels for COCO dataset, you could use the sc
 ## Create environment
 I used docker to build the enviroment.
 ``` bash 
-pip install requirement -r
+pip install requirement.txt -r
 ```
 
 
