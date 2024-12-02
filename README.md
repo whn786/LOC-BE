@@ -4,7 +4,7 @@
 <div align="center">
 
 <br>
-  <img width="100%" alt="AFA flowchart" src="./docs/img/LOC_BE.png">
+  <img width="100%" alt="AFA flowchart" src="../docs/img/LOC_BE.png">
 </div>
 
 <!-- ## Abastract -->
