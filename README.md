@@ -1,4 +1,4 @@
-## End-to-End Weakly-Supervised Semantic Segmentation Network guided by CAM region partitioning for Local Optimization and Boundary Enhancement
+## Local Optimization Cropping and Boundary Enhancement for End-to-End Weakly-Supervised Segmentation Network
 
 
 <div align="center">
