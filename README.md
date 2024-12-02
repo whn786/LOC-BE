@@ -59,7 +59,7 @@ MSCOCO/
 To generate VOC style segmentation labels for COCO dataset, you could use the scripts provided at this [repo](https://github.com/alicranck/coco2voc). Or, just download the generated masks from [Google Drive](https://drive.google.com/file/d/1pRE9SEYkZKVg0Rgz2pi9tg48j7GlinPV/view).
 
 ## Create environment
-I used docker to build the enviroment.
+I used pip to build the enviroment.
 ``` bash 
 pip install requirement.txt -r
 ```
